@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nicholasgrebe.github.io</title>
+    <link>https://nicholasgrebe.github.io/</link>
+    <description>Recent content on nicholasgrebe.github.io</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Nicholas Grebe {year}</copyright>
+    <lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://nicholasgrebe.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Organizational and Activational Androgens, Lemur Social Play, and the Ontogeny of Female Dominance</title>
+      <link>https://nicholasgrebe.github.io/publication/grebe-lemur/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicholasgrebe.github.io/publication/grebe-lemur/</guid>
+      <description>&lt;p&gt;The role of androgens in shaping “masculine” traits in males is a core focus in behavioral endocrinology, but relatively little is known about an androgenic role in female aggression and social dominance. In mammalian models of female dominance, including the ring-tailed lemur (Lemur catta), links to androgens in adulthood are variable. We studied the development of ring-tailed lemurs to address the behavioral basis and ontogenetic mechanisms of female dominance.  We measured behavior and serum androgen concentrations in 24 lemurs (8 males, 16 females) from infancy to early adulthood, and assessed their ‘prenatal’ androgen milieu using serum samples obtained from their mothers during gestation. Because logistical constraints limited the frequency of infant blood sampling, we accounted for asynchrony between behavioral and postnatal hormone measurements via imputation procedures. Imputation was unnecessary for prenatal hormone measurements. The typical sex difference in androgen concentrations in young lemurs was consistent with adult conspecifics and most other mammals; however, we found no significant sex differences in rough-and-tumble play. Female (but not male) aggression increased beginning at approximately 15 months, coincident with female puberty. In our analyses relating sexually differentiated behavior to androgens, we found no relationship with activational hormones, but several significant relationships with organizational hormones. Notably, associations of prenatal androstenedione and testosterone with behavior were differentiated, both by offspring sex and by type of behavior within offspring sexes. We discuss the importance of considering (1) missing data in behavioral endocrinology research, and (2) organizational androgens other than testosterone in studies of female dominance.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Psychological Cycle Shifts Redux: Revisiting a Preregistered Study Examining Preferences for Muscularity</title>
+      <link>https://nicholasgrebe.github.io/publication/gangestad-redux/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicholasgrebe.github.io/publication/gangestad-redux/</guid>
+      <description>&lt;p&gt;Jünger et al. (2018) conducted a preregistered study examining whether women particularly prefer
+muscular bodies when conceptive in their cycles. Despite an impressive number of participants and
+within-woman observations, they found no evidence for a preference shift; rather, they claimed,
+conceptive women find all male bodies more attractive. We preregistered a separate study very similar
+to Jünger et al.’s, with specified analyses focusing on shifts associated with joint additive effects of log-transformed estradiol and progesterone (ln(E/P)). We performed similar analyses on Jünger et al.’s
+publicly available data, using an empirically vetted (though not preregistered) measure of
+Strength/Muscularity. They revealed a ln(E/P) × Strength/Muscularity × Relationship Status
+interaction effect on sexual attraction. The ln(E/P) × Strength/Muscularity interaction ran in opposite
+directions for partnered and single women effects largely driven by P levels. Jünger et al.’s null
+conclusions and claims about general preferences are premature. We offer several observations
+regarding preregistered analyses.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Oxytocin and Vulnerable Romantic Relationships</title>
+      <link>https://nicholasgrebe.github.io/publication/grebe-oxytocin/</link>
+      <pubDate>Sun, 12 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicholasgrebe.github.io/publication/grebe-oxytocin/</guid>
+      <description>&lt;p&gt;Oxytocin (OT) has been implicated in the formation and maintenance of various social relationships, including
+human romantic relationships. Competing models predict, alternatively, positive or negative associations between
+naturally-occurring OT levels and romantic relationship quality. Empirical tests of these models have
+been equivocal. We propose a novel hypothesis (‘Identify and Invest’) that frames OT as an allocator of psychological investment toward valued, vulnerable relationships, and test this proposal in two studies. In one sample of 75 couples, and a second sample of 148 romantically involved individuals, we assess facets of relationships predicting changes in OT across a thought-writing task regarding one&amp;rsquo;s partner. In both studies, participants&amp;rsquo; OT change across the task corresponded positively with multiple dimensions of high relationship involvement. However, increases in participants&amp;rsquo; OT also corresponded to their partners reporting lower relationship involvement. OT increases, then, reflected discrepancies between assessments of self and partner relationship involvement. These findings are robust in a combined analysis of both studies, and do not significantly differ between samples. Collectively, our findings support the ‘Identify and Invest’ hypothesis in romantic couples, and we argue for its relevance across other types of social bonds.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://nicholasgrebe.github.io/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicholasgrebe.github.io/posts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

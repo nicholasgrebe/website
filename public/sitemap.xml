@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://nicholasgrebe.github.io/publication/grebe-lemur/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicholasgrebe.github.io/publication/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicholasgrebe.github.io/</loc>
+    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nicholasgrebe.github.io/publication/gangestad-redux/</loc>
+    <lastmod>2019-05-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicholasgrebe.github.io/publication/grebe-oxytocin/</loc>
+    <lastmod>2017-03-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://nicholasgrebe.github.io/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicholasgrebe.github.io/authors/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nicholasgrebe.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nicholasgrebe.github.io/publication_types/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://nicholasgrebe.github.io/posts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicholasgrebe.github.io/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://nicholasgrebe.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

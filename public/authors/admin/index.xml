@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nicholasgrebe.github.io</title>
+    <link>https://nicholasgrebe.github.io/authors/admin/</link>
+    <description>Recent content on nicholasgrebe.github.io</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Nicholas Grebe {year}</copyright>
+    
+	    <atom:link href="https://nicholasgrebe.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://nicholasgrebe.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://nicholasgrebe.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a postdoctoral researcher in the &lt;a href=&#34;https://evolutionaryanthropology.duke.edu/&#34; target=&#34;_blank&#34;&gt;Department of Evolutionary Anthropology at Duke University&lt;/a&gt;, and member of the &lt;a href=&#34;http://drealab.weebly.com&#34; target=&#34;_blank&#34;&gt;Drea Lab&lt;/a&gt;. My research interests focus on the evolution of social and mating behavior, with a particular emphasis on hormonal mechanisms. I&amp;rsquo;m a big believer in the value of interdisciplinary perspectives&amp;ndash;my work combines methods from social psychology, comparative neuroscience, ethology, and evolutionary biology. Currently, I&amp;rsquo;m working on an NSF-funded project that investigates the role of oxytocin in the evolution of lemur social behavior.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
